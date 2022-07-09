@@ -1,7 +1,5 @@
 # AI-based-Traffic-Management-System
 
-###  :wrench: This repository is currently in progress :hammer: 
-
 ## Abstract
 
 In this fast-paced world where everything is powered with technologies like AI, some systems were automated but never really were included in the AI space. One such example is that of the traditional traffic management system. Since childhood we have seen the same traffic signal that works at a set time by the traffic authorities. Nothing much has changed since the invention of these signals. While all the appliances and machines are now powered using AI, the traffic system still runs in the traditional way. This led us to explore the idea of building a smart traffic management system, where the idea is simple but the impact is tremendous. According to one of the posts, an average citizen wastes around 20-25% of time waiting at a signal in the US. This number would be quite high in countries like India, considering narrow roads and a substantially heavy number of vehicles. Even though the number looks small but 
